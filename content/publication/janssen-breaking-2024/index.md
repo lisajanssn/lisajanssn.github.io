@@ -5,7 +5,7 @@ authors:
 - Lisa Janssen
 - '& Emma Turkenburg'
 date: '2024-10-01'
-publishDate: '2024-09-15T08:50:42.042485Z'
+publishDate: '2024-10-02T08:50:42.042485Z'
 publication_types:
 - article-journal
 publication: '*European Journal of Political Research*'
@@ -28,7 +28,7 @@ abstract: 'Scholars increasingly raise concerns about the alleged detrimental im
 links:
 - name: Replication Package
   url: https://osf.io/hu6f3/
-url_pdf: uploads/janssen-et-al-2023-privatization-of-preschool-education-the-implications-for-educational-inequalities-in-cross-national.pdf
+url_pdf: uploads/2024 Janssen, Turkenburg.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
